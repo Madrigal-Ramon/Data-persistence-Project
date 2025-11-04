@@ -1,5 +1,3 @@
-# Data-persistence-Project
-
 # Simple Restaurant Order System
 
 ## Problem
